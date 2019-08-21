@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food2Fork</string>
+    <string name="search">Search</string>
+
+    <string name="network_err1">Whops</string>
+    <string name="network_err2">Slow or no internet connection.\nPlease check your internet settings</string>
+</resources>
